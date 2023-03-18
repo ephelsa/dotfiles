@@ -1,0 +1,3 @@
+[submodule "nvim/lua/user"]
+	path = nvim/lua/user
+	url = https://github.com/ephelsa/astronvim_user_config
